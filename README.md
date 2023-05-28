@@ -7,3 +7,5 @@ Tianjin University has a scientific computing platform (Tianyan) to provide user
 
 - Chat history retrieval and management system
 - Web page text extractor
+
+This project has been commited as final work for `Cloud Computing` course.
