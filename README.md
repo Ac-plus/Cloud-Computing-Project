@@ -9,3 +9,13 @@ Tianjin University has a scientific computing platform (Tianyan) to provide user
 - Web page text extractor
 
 This project has been commited as final work for `Cloud Computing` course.
+
+## Runme
+
+1. For demo1(Chat history retrieval and management system), you should drag a chatting file and run `main.py`.
+2. For demo2(Web page text extractor), you should input a web URL (eg. `https://www.sina.com.cn`), and run `main.py`.
+
+## Others
+
+- Language: Python3.10
+- Platform: Tianyan
