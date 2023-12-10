@@ -1,2 +1,22 @@
-# Cloud-Computing-Project
-Coding cloud functions for TJU Tianyan Platform, and 2 demos with these functions.
+# 云函数开发项目
+
+我们团队为TJU Tianyan编写云函数，并使用这些函数编写了两个demo。
+
+## 项目简介
+
+Tianyan科学计算平台（天眼），为用户提供云端数值计算服务。我们依据Matlab “Text Data Preparation” Toolbox，使用Python开发了其中的40个函数。此外，使用这些函数编写了两个演示项目：
+
+- 聊天记录检索和管理系统(demo)
+- 网页文本提取器(demo2)
+
+该项目作为《云计算》课程的最终作品提交。
+
+## 运行指南
+
+1. 对于演示1（聊天记录检索和管理系统），您应该导入一个聊天文件并运行`main.py`。
+2. 对于演示2（网页文本提取器），您应输入一个网页URL（例如`https://www.sina.com.cn`），并运行`main.py`。
+
+## 其他信息
+
+- 编程语言：Python3.10
+- 平台：天眼
