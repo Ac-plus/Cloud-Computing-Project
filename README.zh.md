@@ -4,7 +4,7 @@
 
 ## 项目简介
 
-Tianyan科学计算平台（天眼），为用户提供云端数值计算服务。我们依据Matlab “Text Data Preparation” Toolbox，使用Python开发了其中的40个函数。此外，使用这些函数编写了两个演示项目：
+Tianyan科学计算平台（天演），为用户提供云端数值计算服务。我们依据Matlab “Text Data Preparation” Toolbox，使用Python开发了其中的40个函数。此外，使用这些函数编写了两个演示项目：
 
 - 聊天记录检索和管理系统(demo)
 - 网页文本提取器(demo2)
@@ -19,4 +19,4 @@ Tianyan科学计算平台（天眼），为用户提供云端数值计算服务�
 ## 其他信息
 
 - 编程语言：Python3.10
-- 平台：天眼
+- 平台：天演
